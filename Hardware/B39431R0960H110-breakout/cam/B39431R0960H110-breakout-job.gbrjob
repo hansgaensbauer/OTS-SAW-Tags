@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.1)"
     },
-    "CreationDate": "2022-07-01T12:20:03-05:00"
+    "CreationDate": "2022-07-02T10:53:45-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "B39431R0960H110-breakout",
       "GUID": "42333934-3331-4523-9039-363048313130",
-      "Revision": "rev?"
+      "Revision": "1"
     },
     "Size": {
       "X": 12.05,
