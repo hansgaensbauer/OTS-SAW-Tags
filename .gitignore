@@ -27,3 +27,6 @@ fp-info-cache
 
 # Backup File Folders
 *-backups/
+
+# Jupyter Checkpoints
+*checkpoint.ipynb
