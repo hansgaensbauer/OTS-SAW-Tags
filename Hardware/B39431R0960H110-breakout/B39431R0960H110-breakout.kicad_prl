@@ -1,7 +1,12 @@
 {
   "board": {
+<<<<<<< HEAD:Hardware/B39431R0960H110-breakout/B39431R0960H110-breakout.kicad_prl
     "active_layer": 49,
     "active_layer_preset": "",
+=======
+    "active_layer": 44,
+    "active_layer_preset": "All Layers",
+>>>>>>> 49a8058 (Made words bigger):Hardware/power-divider/power_divider.kicad_prl
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
