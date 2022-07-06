@@ -1277,6 +1277,9 @@
   (gr_text "C5" (at 147.955 69.85) (layer "F.SilkS") (tstamp b4f9c84d-7c86-4fce-be8a-dd6fc089a12b)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "1.6 mm FR4\nDk = 4.6\nGreen Soldermask\nNo Silkscreen\nHASL Lead Free\nOrder with Stencil" (at 156.337 55.753) (layer "F.Fab") (tstamp e06f99ab-70c9-48e0-9786-de35bc5b9bdc)
+    (effects (font (size 0.7 0.7) (thickness 0.1)) (justify left))
+  )
 
   (via (at 135.992859 65.997532) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 00e0890e-6ee1-49d3-b529-f2327ae4ad81))
   (via (at 128.990392 70.999294) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 0125f7c0-b7d7-461b-ae90-5a8644095864))
